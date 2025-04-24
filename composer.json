@@ -18,5 +18,7 @@
                 "GraphMail\\GraphMailServiceProvider"
             ]
         }
-    }
+    },
+
+    "license": "MIT"
 }
