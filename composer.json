@@ -1,10 +1,10 @@
 {
-    "name": "tuempresa/graphmail",
+    "name": "matiasq22/laravel-mirosoft-graphmail",
     "description": "Microsoft Graph Mailer for Laravel",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "TuEmpresa\\GraphMail\\": "src/"
+            "GraphMail\\": "src/"
         }
     },
     "require": {
@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TuEmpresa\\GraphMail\\GraphMailServiceProvider"
+                "GraphMail\\GraphMailServiceProvider"
             ]
         }
     }
