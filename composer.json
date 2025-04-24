@@ -1,5 +1,5 @@
 {
-    "name": "matiasq22/laravel-mirosoft-graphmail",
+    "name": "matiasq22/laravel-microsoft-graphmail",
     "description": "Microsoft Graph Mailer for Laravel",
     "type": "library",
     "autoload": {
